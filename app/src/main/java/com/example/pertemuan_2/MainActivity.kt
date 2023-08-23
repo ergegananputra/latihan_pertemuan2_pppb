@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import com.example.pertemuan_2.databinding.ActivityMainBinding
-import com.google.android.material.color.utilities.ColorUtils
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding : ActivityMainBinding
